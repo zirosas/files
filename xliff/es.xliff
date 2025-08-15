@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="2.1" xmlns="urn:oasis:names:tc:xliff:document:2.1">
+  <file id="f1" srcLang="en" trgLang="es">
+    <unit id="msg.001">
+      <segment>
+        <source>Hello</source>
+        <target state="translated">Hola</target>
+      </segment>
+    </unit>
+    <unit id="msg.002">
+      <segment>
+        <source>Welcome to our app</source>
+        <target state="translated">Bienvenido a nuestra aplicación</target>
+      </segment>
+    </unit>
+    <unit id="msg.003">
+      <segment>
+        <source>Sign in</source>
+        <target state="translated">Iniciar sesión</target>
+      </segment>
+    </unit>
+    <unit id="msg.004">
+      <segment>
+        <source>Sign out</source>
+        <target state="translated">Cerrar sesión</target>
+      </segment>
+    </unit>
+    <unit id="msg.005">
+      <segment>
+        <source>Create an account</source>
+        <target state="translated">Crear una cuenta</target>
+      </segment>
+    </unit>
+    <unit id="msg.006">
+      <segment>
+        <source>Forgot your password?</source>
+        <target state="translated">¿Olvidaste tu contraseña?</target>
+      </segment>
+    </unit>
+    <unit id="msg.007">
+      <segment>
+        <source>Reset password email sent</source>
+        <target state="translated">Se envió el correo para restablecer la contraseña</target>
+      </segment>
+    </unit>
+    <unit id="msg.008">
+      <segment>
+        <source>Loading, please wait...</source>
+        <target state="translated">Cargando, por favor espera...</target>
+      </segment>
+    </unit>
+    <unit id="msg.009">
+      <segment>
+        <source>An unexpected error occurred</source>
+        <target state="translated">Ocurrió un error inesperado</target>
+      </segment>
+    </unit>
+    <unit id="msg.010">
+      <segment>
+        <source>Save changes</source>
+        <target state="translated">Guardar cambios</target>
+      </segment>
+    </unit>
+    <unit id="msg.011">
+      <segment>
+        <source>Changes saved successfully</source>
+        <target state="translated">Cambios guardados correctamente</target>
+      </segment>
+    </unit>
+    <unit id="msg.012">
+      <segment>
+        <source>Are you sure you want to delete this item?</source>
+        <target state="translated">¿Seguro que deseas eliminar este elemento?</target>
+      </segment>
+    </unit>
+    <unit id="msg.013">
+      <segment>
+        <source>Search</source>
+        <target state="translated">Buscar</target>
+      </segment>
+    </unit>
+    <unit id="msg.014">
+      <segment>
+        <source>No results found</source>
+        <target state="translated">No se encontraron resultados</target>
+      </segment>
+    </unit>
+    <unit id="msg.015">
+      <segment>
+        <source>Showing <ph id="1">{count}</ph> result</source>
+        <target state="translated">Mostrando <ph id="1">{count}</ph> resultado</target>
+      </segment>
+    </unit>
+    <unit id="msg.016">
+      <segment>
+        <source>Showing <ph id="1">{count}</ph> results</source>
+        <target state="translated">Mostrando <ph id="1">{count}</ph> resultados</target>
+      </segment>
+    </unit>
+    <unit id="msg.017">
+      <segment>
+        <source>View details</source>
+        <target state="translated">Ver detalles</target>
+      </segment>
+    </unit>
+    <unit id="msg.018">
+      <segment>
+        <source>Add to cart</source>
+        <target state="translated">Añadir al carrito</target>
+      </segment>
+    </unit>
+    <unit id="msg.019">
+      <segment>
+        <source>Checkout</source>
+        <target state="translated">Finalizar compra</target>
+      </segment>
+    </unit>
+    <unit id="msg.020">
+      <segment>
+        <source>Thank you for your purchase!</source>
+        <target state="translated">¡Gracias por tu compra!</target>
+      </segment>
+    </unit>
+    </file>
+</xliff>
