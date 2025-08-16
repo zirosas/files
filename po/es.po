@@ -1,0 +1,183 @@
+# Spanish translation for demo app
+# Copyright (C) 2024 Demo Company
+# This file is distributed under the same license as the demo package.
+# Translator Name <translator@example.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Demo App 1.0\n"
+"Report-Msgid-Bugs-To: support@demoapp.com\n"
+"POT-Creation-Date: 2024-01-15 10:30+0000\n"
+"PO-Revision-Date: 2024-01-20 14:45+0000\n"
+"Last-Translator: Maria Rodriguez <maria@translations.com>\n"
+"Language-Team: Spanish <es@translations.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/components/Header.tsx:15
+msgid "Welcome to our application"
+msgstr "Bienvenido a nuestra aplicación"
+
+#: src/components/Auth/Login.tsx:23
+msgid "Sign in to your account"
+msgstr "Inicia sesión en tu cuenta"
+
+#: src/components/Auth/Login.tsx:28
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: src/components/Auth/Login.tsx:32
+msgid "Password"
+msgstr "Contraseña"
+
+#: src/components/Auth/Login.tsx:36
+msgid "Forgot your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+#: src/components/Auth/Login.tsx:40
+msgid "Sign in"
+msgstr "Iniciar sesión"
+
+#: src/components/Auth/Register.tsx:18
+msgid "Create your account"
+msgstr "Crea tu cuenta"
+
+#: src/components/Auth/Register.tsx:25
+msgid "Full name"
+msgstr "Nombre completo"
+
+#: src/components/Auth/Register.tsx:33
+msgid "Confirm password"
+msgstr "Confirmar contraseña"
+
+#: src/components/Auth/Register.tsx:37
+msgid "Create account"
+msgstr "Crear cuenta"
+
+#: src/components/Navigation.tsx:12
+msgid "Dashboard"
+msgstr "Panel de control"
+
+#: src/components/Navigation.tsx:16
+msgid "Projects"
+msgstr "Proyectos"
+
+#: src/components/Navigation.tsx:20
+msgid "Settings"
+msgstr "Configuración"
+
+#: src/components/Navigation.tsx:24
+msgid "Help"
+msgstr "Ayuda"
+
+#: src/components/Navigation.tsx:28
+msgid "Sign out"
+msgstr "Cerrar sesión"
+
+#: src/components/Project/ProjectList.tsx:18
+msgid "My Projects"
+msgstr "Mis Proyectos"
+
+#: src/components/Project/ProjectList.tsx:22
+msgid "Create new project"
+msgstr "Crear nuevo proyecto"
+
+#: src/components/Project/ProjectList.tsx:35
+msgid "No projects found"
+msgstr "No se encontraron proyectos"
+
+#: src/components/Project/ProjectList.tsx:40
+msgid "Search projects..."
+msgstr "Buscar proyectos..."
+
+#: src/components/Common/Button.tsx:15
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: src/components/Common/Button.tsx:19
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/components/Common/Button.tsx:23
+msgid "Delete"
+msgstr "Eliminar"
+
+#: src/utils/messages.tsx:8
+msgid "Operation completed successfully"
+msgstr "Operación completada exitosamente"
+
+#: src/utils/messages.tsx:12
+msgid "An error occurred. Please try again."
+msgstr "Ocurrió un error. Por favor, inténtalo de nuevo."
+
+#: src/utils/messages.tsx:16
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: src/utils/messages.tsx:20
+msgid "Are you sure you want to delete this item?"
+msgstr "¿Estás seguro de que quieres eliminar este elemento?"
+
+#: src/utils/validation.tsx:5
+msgid "This field is required"
+msgstr "Este campo es obligatorio"
+
+#: src/utils/validation.tsx:9
+msgid "Please enter a valid email address"
+msgstr "Por favor, ingresa una dirección de correo electrónico válida"
+
+#: src/utils/validation.tsx:13
+msgid "Password must be at least 8 characters long"
+msgstr "La contraseña debe tener al menos 8 caracteres"
+
+#: src/utils/validation.tsx:17
+msgid "Passwords do not match"
+msgstr "Las contraseñas no coinciden"
+
+# Plural forms examples
+#: src/components/Results.tsx:25
+msgid "Found %d result"
+msgid_plural "Found %d results"
+msgstr[0] "Se encontró %d resultado"
+msgstr[1] "Se encontraron %d resultados"
+
+#: src/components/Upload.tsx:15
+msgid "Upload %d file"
+msgid_plural "Upload %d files"
+msgstr[0] "Subir %d archivo"
+msgstr[1] "Subir %d archivos"
+
+# Context-specific translations
+#: src/components/Status.tsx:8
+msgctxt "user status"
+msgid "Active"
+msgstr "Activo"
+
+#: src/components/Status.tsx:12
+msgctxt "project status"
+msgid "Active"
+msgstr "En progreso"
+
+#: src/components/Status.tsx:16
+msgctxt "connection status"
+msgid "Active"
+msgstr "Conectado"
+
+# Comments for translators
+#. TRANSLATORS: This appears in the main navigation menu
+#: src/components/Navigation.tsx:32
+msgid "Home"
+msgstr "Inicio"
+
+#. TRANSLATORS: Button text for submitting a form
+#: src/components/Form.tsx:45
+msgid "Submit"
+msgstr "Enviar"
+
+#. TRANSLATORS: Error message when file upload fails
+#: src/utils/upload.tsx:28
+msgid "File upload failed. Please check your internet connection and try again."
+msgstr "Error al subir el archivo. Por favor, verifica tu conexión a internet e inténtalo de nuevo."
